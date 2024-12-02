@@ -1,0 +1,6 @@
+requests
+ipykernel
+bs4
+pandas
+openpyxl
+certifi
