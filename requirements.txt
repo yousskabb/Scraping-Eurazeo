@@ -4,3 +4,4 @@ bs4
 pandas
 openpyxl
 certifi
+googlesearch-python
